@@ -2,4 +2,4 @@ docker-compose.yml
 api-gateway/nginx.conf
 .env
 qwc-services
-volumes/db
+db/
