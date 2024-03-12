@@ -3,3 +3,5 @@ api-gateway/nginx.conf
 .env
 qwc-services
 db/
+volumes/
+pg_service.conf
